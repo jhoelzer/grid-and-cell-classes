@@ -18,5 +18,3 @@ const grid3 = new Grid ({
     targetElement: document.querySelector("main"),
     cellClasses: ["purple-border"]
 });
-
-console.log(grid, grid2, grid3)
